@@ -111,4 +111,4 @@ Ten en cuenta que Azure OpenAI, Azure AI Models y Azure AI Agents son servicios 
 
 Únete a [TheSource EHub](https://aka.ms/thesource/ai_agents) para explorar nuestras mejores selecciones de capacitaciones, transmisiones en vivo, repositorios, guías técnicas, blogs, descargas, certificaciones y más, todo actualizado mensualmente. La sección de Agentes de IA ofrece recursos esenciales para crear Agentes de IA, mientras que otras secciones brindan información sobre IA, herramientas de desarrollo y lenguajes de programación.
 
-También puedes publicar preguntas en nuestro [foro de discusión](https://github.com/microsoft/AI_Agents_Hackathon/discussions), o chatear con otros participantes en el [Discord](https://discord.gg/ZkEG5GYfGU).
+También puedes publicar preguntas en nuestro [foro de discusión](https://github.com/microsoft/AI_Agents_Hackathon/discussions), o chatear con otros participantes en el [Discord](https://discord.gg/ZkEG5GYfGU).
